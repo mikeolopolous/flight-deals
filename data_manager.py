@@ -1,7 +1,7 @@
 import requests
 
-SHEETY_ENDPOINT = "https://api.sheety.co/fe3dcca35ca1d03f184574cef51bbcd6/flightDeals"
-SHEETY_TOKEN = {"Authorization": "Bearer sheetyBearerTokenizer"}
+SHEETY_ENDPOINT = ""
+SHEETY_TOKEN = {"Authorization": ""}
 
 
 class DataManager:
